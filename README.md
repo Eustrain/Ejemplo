@@ -1,1 +1,1 @@
-This is mi first  scrip  to github
+This is my first  scrip  to github
